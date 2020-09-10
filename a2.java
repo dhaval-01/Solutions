@@ -1,7 +1,8 @@
 class Solution {
 
 //https://leetcode.com/problems/sort-colors/
-
+//O(n)
+//O(1)
     public void sortColors(int[] nums) {
         int n=nums.length;
         int s=0;
